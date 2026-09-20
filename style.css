@@ -70,3 +70,39 @@ width: 560px;
 margin-left: auto;
 margin-right: auto;
 }
+
+.ieatchips {
+   border-top-style: dotted;
+   border-right-style: dotted;
+   border-left-style: dotted;
+   border-bottom-style: dotted;
+   border-style:outset;
+   border-width: 6.9px;
+   border-color: blue;
+   border-radius: 10px;
+   padding: 5px;
+font-family: "Times New Roman";
+ background: black;
+color: white;
+width: 450px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.dontcopythecode {
+   border-top-style: dotted;
+   border-right-style: dotted;
+   border-left-style: dotted;
+   border-bottom-style: dotted;
+   border-style:outset;
+   border-width: 6.9px;
+   border-color: gold;
+   border-radius: 10px;
+   padding: 5px;
+font-family: "Serif";
+ background: black;
+color: white;
+width: 560px;
+margin-left: auto;
+margin-right: auto;
+}
